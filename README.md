@@ -7,4 +7,8 @@ If you choose to use teamless mode where both teams try to capture the same flag
 
 to update this you will need to do the same as above but then swap out the old gamemode folder and change the config.
 
+BUGS:
+Invulnerability needs to be 0.
+Waiting room is broken.
+
 If you have any questions or need help troubleshooting please DM me \_Xandon\_#2088 on discord.
